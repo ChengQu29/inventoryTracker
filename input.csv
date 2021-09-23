@@ -1,0 +1,12 @@
+Item #,Name,Type,Make,Model,Brand,Description
+100,Service One,Service,,,Programming Consultation,1 hour of consulting on web design concepts
+101,Service Two,Service,,,Programming Consultation,5 hours of consulting on web design concepts
+102,ProgCalc,Product,Casio,2020,,Programmable calculator
+103,ProgBook,Book,,,O'Reilly,A book on web design concepts
+104,WebDev,Service,,,Web Development,10 hours of web development
+105,Photography,Service,Leica,M,East Coast Photography,Best photo shoot in town
+106,Bakery,Food,,,Bread First,Best bakery in town
+107,CarWash,Service,,,U-wash,Self-service car wash
+108,Sportswear,Product,Nike,Jordan,Nike factory direct,Nike discount store
+109,Antique,Sale,,,Antique,Old stuff for sale
+110,Dealership,CarDealer,Honda,,Honda,Honda car dealership
